@@ -3,10 +3,10 @@
 - DOMAIN-KEYWORD,exoclick
 - DOMAIN-KEYWORD,trafficjunky
 - DOMAIN-KEYWORD,tsyndicate
-- DOMAIN-KEYWORD,xxxivjmp 
+- DOMAIN-KEYWORD,xxxivjmp
 - DOMAIN-KEYWORD,strpst
 - DOMAIN,static-cdn.strpst.com
-- DOMAIN,creative.xxxivjmp.com 
+- DOMAIN,creative.xxxivjmp.com
 - DOMAIN-SUFFIX,doppiocdn.com
 - DOMAIN,live.doppiocdn.com
 - IP-CIDR,172.65.200.0/24
